@@ -1,0 +1,7 @@
+Tạoo một bank đơn giản với chức năng:
+- đăng nhập
+- đăng ký
+- chuyển tiền
+- đổi pass
+- xem thông tin tài khoản.
+Lưu dữ liệu vào mySQL
